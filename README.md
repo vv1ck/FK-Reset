@@ -13,10 +13,10 @@ It has two options :
 - *- Snapchat-Instagram
 -----------------------
 Requirements for using the tool :
-1- An email to log in with the tool and send through it, the email must be gmail
-2- Target person's email
-3- The target person's account name (username)
-4- A fake page to be sent within the sent email
+- 1- An email to log in with the tool and send through it, the email must be gmail
+- 2- Target person's email
+- 3- The target person's account name (username)
+- 4- A fake page to be sent within the sent email
 -----------------------
 install in kali linux :
 <!--START_SECTION:waka-->
