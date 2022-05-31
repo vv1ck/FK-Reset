@@ -44,7 +44,10 @@ python3 Start_Tools.py.py
 ```
 <!--END_SECTION:waka-->
 ---------------------
-- Note: Do not forget to put the proxy file in the same folder as the tool, and if you are going to use the combo system, also put the combo file in the same folder
+- Note: If you cannot log in with your email with the tool, you must turn off the security option from your gmail account
+- 1- go here : https://myaccount.google.com/u/3/lesssecureapps
+- 2- Close the option (the least secure app)
+- 3- Restart the tool and log in
 ---------------------
 By JOKER | <a class="" href="https://intagram.com/221298">Instagram💢</a> | <a class="" href="http://t.me/vv1ck">telegram 🔷</a> | <a class="" href="http://t.me/TweakPY">telegram 2 🔷</a>
 -
