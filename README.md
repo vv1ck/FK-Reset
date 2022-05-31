@@ -1,6 +1,9 @@
 # FK-Reset
 Reset-Fake
 -
+Tool function :
+- #- Help you to send your fake page to the victim through e-mail using ready-made templates similar to technical support messages. The real information is replaced with your forged information such as (the victim's email, account name, link to your fake page)
+-----------------------
 It has two options :
 - reset password fake:
 - 1- The first option contains 5 ready-made templates for popular applications:
