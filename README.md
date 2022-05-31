@@ -40,7 +40,7 @@ pip install email.message
 - Then run the tool :
 <!--START_SECTION:waka-->
 ```
-python3 Start_Tools.py.py
+python3 FK-Reset.py
 ```
 <!--END_SECTION:waka-->
 ---------------------
